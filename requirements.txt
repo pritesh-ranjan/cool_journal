@@ -1,0 +1,9 @@
+rich
+nltk
+spacy
+transformers
+torch
+sentencepiece
+
+keyboard
+pywin32
